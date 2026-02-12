@@ -10,7 +10,7 @@
 - [ "Python", "HTML/CSS",javascript, "Machine Learning"]
 
 ## Current Projects
-- [Project name](link) — short description
+- learning python basics and practising beginner programs 
 
 ## How to Reach Me
 - Email: [macuavivianne@gmail.com]
